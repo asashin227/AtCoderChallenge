@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		1785FB50231FCAF0004CFFBF /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1785FB4F231FCAF0004CFFBF /* main.swift */; };
+		1785FB57231FCC8A004CFFBF /* AtCoderBeginnerContest139.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1785FB56231FCC8A004CFFBF /* AtCoderBeginnerContest139.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +26,7 @@
 /* Begin PBXFileReference section */
 		1785FB4C231FCAF0004CFFBF /* AtCoder */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = AtCoder; sourceTree = BUILT_PRODUCTS_DIR; };
 		1785FB4F231FCAF0004CFFBF /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		1785FB56231FCC8A004CFFBF /* AtCoderBeginnerContest139.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AtCoderBeginnerContest139.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 			isa = PBXGroup;
 			children = (
 				1785FB4F231FCAF0004CFFBF /* main.swift */,
+				1785FB56231FCC8A004CFFBF /* AtCoderBeginnerContest139.swift */,
 			);
 			path = AtCoder;
 			sourceTree = "<group>";
@@ -120,6 +123,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				1785FB50231FCAF0004CFFBF /* main.swift in Sources */,
+				1785FB57231FCC8A004CFFBF /* AtCoderBeginnerContest139.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -245,7 +249,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = UF5W2G52HV;
+				DEVELOPMENT_TEAM = 2TGPPHG6AT;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 			};
@@ -255,7 +259,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = UF5W2G52HV;
+				DEVELOPMENT_TEAM = 2TGPPHG6AT;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 			};

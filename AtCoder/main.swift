@@ -8,5 +8,6 @@
 
 import Foundation
 
-print("Hello, World!")
-
+//AtCoderBeginnerContest139.tenki()
+//AtCoderBeginnerContest139.powerSocket()
+AtCoderBeginnerContest139.lower()
